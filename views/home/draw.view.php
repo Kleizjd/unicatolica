@@ -31,7 +31,7 @@
 				</button>
 			</div>
 			<div class="col-4">
-				<img src="../../public/img/logo-semana-6.png" alt="Logo Semana 6" class="img-fluid">
+				<img src="../../public/img/logo-semana-6-2018.png" alt="Logo Semana 6" class="img-fluid">
 			</div>
 		</div>
 	</div>
