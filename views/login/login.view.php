@@ -1,8 +1,4 @@
-<?php
-include_once "config/env.php";
-@session_start();
-@session_destroy();
-?>
+<?php include_once "config/env.php"; @session_start(); @session_destroy(); ?>
 <!DOCTYPE html>
 <html lang="es">
 

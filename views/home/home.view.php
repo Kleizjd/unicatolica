@@ -1,10 +1,4 @@
-<?php
-
-@session_start();
-
-include_once "../../config/env.php";
-
-?>
+<?php @session_start(); include_once "../../config/env.php"; ?>
 
 <?php if (isset($_SESSION["Id_Estudiante"])):  ?>
 
@@ -315,7 +309,6 @@ include_once "../../config/env.php";
 					</div>
 				</div>
 			</div>
-
 			<div class="col-12 col-md-6">
 
 				<div class="row">

@@ -1,5 +1,4 @@
-<?php
-@session_start();
+<?php @session_start();
 include_once "../../config/configuracion.php";
 include_once "../../config/core.php";
 

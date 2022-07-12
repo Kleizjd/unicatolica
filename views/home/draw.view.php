@@ -1,10 +1,4 @@
-<?php
-
-@session_start();
-
-include_once "../../config/env.php";
-
-?>
+<?php @session_start(); include_once "../../config/env.php"; ?>
 
 <?php if ($_SESSION["Id_Estudiante"] == 16882523): ?>
 
