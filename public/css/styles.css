@@ -1,0 +1,43 @@
+textarea {
+	resize: none;
+}
+
+.btn {
+	position: relative;
+	z-index: 1;
+}
+
+#tablaModalActividades_wrapper .table.table-hover.dataTable.no-footer {
+	width: 798.4px !important;
+}
+
+#tablaModalActividades_wrapper [aria-label="Nombre"] {
+	width: 153px !important;
+}
+#tablaModalActividades_wrapper [aria-label="Fecha"] {
+	width: 70px !important;
+}
+#tablaModalActividades_wrapper [aria-label="Hora"] {
+	width: 90px !important;
+}
+#tablaModalActividades_wrapper [aria-label="Sede"] {
+	width: 1px !important;
+}
+
+.href {
+	display: inline;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	background-color: transparent;
+	color: #007bff;
+	font-size: 1em;
+	line-height: 1em;
+  }
+ 
+  .href:hover {
+	text-decoration: underline;
+	color: #0056b3;
+	cursor: pointer;
+  }
